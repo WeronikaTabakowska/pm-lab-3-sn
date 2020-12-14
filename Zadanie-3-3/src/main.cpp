@@ -9,6 +9,7 @@ void setup(){
   pinMode(A0, INPUT);
 }
 
+
 void loop(){
   digital = analogRead(A0);
   voltage = ADC_RESOLUTION_DEFAULT * digital;
