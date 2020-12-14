@@ -1,5 +1,6 @@
 #define BUTTON 2
 
+
 int stanPrzycisku;
 int poprzedniStanPrzycisku = LOW;
 unsigned long poprzedniCzas = 0;
