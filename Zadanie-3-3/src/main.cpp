@@ -3,12 +3,13 @@
 uint16_t digital;
 float voltage;
 
+
+
 void setup(){
   Serial.begin(9600);
   analogReference(DEFAULT);
   pinMode(A0, INPUT);
 }
-
 
 void loop(){
   digital = analogRead(A0);
