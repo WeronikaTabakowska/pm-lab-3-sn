@@ -13,4 +13,5 @@ Numer albumu: 72556
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+3.2.2. Definiuejmy na nowo wartość graniczną w kodzie.
+3.2.3. Należy zwiększyć format ramki a co za tym idzie szybkość transmisji
